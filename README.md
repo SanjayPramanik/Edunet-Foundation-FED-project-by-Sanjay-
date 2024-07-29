@@ -1,1 +1,1 @@
-unzip the assests file before running the codes
+unzip the assets file before running the codes
